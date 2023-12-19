@@ -1,0 +1,30 @@
+body {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  #joke-container {
+    padding: 40px;
+    border: 1px solid #ddd;
+    margin: 0 auto;
+    width: 50%;
+  }
+  #joke {
+    font-size: 18px;
+    line-height: 1.5;
+  }
+  #get-joke {
+    background-color: #4CAF50;
+    color: whitesmoke;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  #generate-joke{
+      background-color: #4CAF50;
+      color: whitesmoke;
+      padding: 10px 20px;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;  
+  }
